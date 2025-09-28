@@ -1,0 +1,53 @@
+# 编译产物
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# 日志文件
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE相关
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# 编辑器备份文件
+*~
+.*.sw[op]
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+build/
+output/
+
+# Node.js相关
+node_modules/
+npm-debug.log*
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# 其他常见的不需要版本控制的文件
+*.tmp
+*.temp
+CMakeLists.txt.user
