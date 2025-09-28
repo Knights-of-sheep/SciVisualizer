@@ -1,0 +1,22 @@
+Language: Cpp
+BasedOnStyle: Google
+ColumnLimit: 120
+
+# Auto Check Pointer Alignment
+DerivePointerAlignment: false
+
+# Default align to Class Type
+PointerAlignment: Left
+
+# Only sort headers in each include block
+SortIncludes: true
+IncludeBlocks: Regroup
+
+# keep #if/#else/#endif intend
+IndentPPDirectives: AfterHash
+
+# table
+IndentWidth: 4
+
+AccessModifierOffset: -4
+

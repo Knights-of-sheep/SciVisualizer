@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cmd.png</file>
+        <file>images/open.png</file>
+        <file>images/cutx.png</file>
+        <file>images/banddiagram.png</file> 
+        <file>images/cutz.png</file>       
+        <file>images/logx.png</file>   
+        <file>images/open.png</file>    
+        <file>images/probe.png</file>   
+        <file>images/rotatex.png</file>
+        <file>images/undo.png</file>         
+        <file>images/logo.png</file>     
+        <file>images/yzview.png</file>
+        <file>images/diffplot.png</file>   
+        <file>images/logy.png</file>     
+        <file>images/data.png</file>   
+        <file>images/overlay.png</file> 
+        <file>images/property.png</file>
+        <file>images/rotatey.png</file>
+        <file>images/valueblanking.png</file>
+        <file>images/zoomfit.png</file>
+        <file>images/cutx.png</file>       
+        <file>images/integration.png</file>
+        <file>images/logz.png</file>   
+        <file>images/precut2d.png</file>
+        <file>images/redo.png</file>    
+        <file>images/rotatez.png</file>
+        <file>images/xyview.png</file>       
+        <file>images/zoominit.png</file>
+        <file>images/cuty.png</file>       
+        <file>images/link.png</file>       
+        <file>images/measure.png</file>
+        <file>images/precut3d.png</file>
+        <file>images/refresh.png</file> 
+        <file>images/select.png</file> 
+        <file>images/xzview.png</file>      
+        <file>images/zoom.png</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+    </qresource>
+</RCC>
